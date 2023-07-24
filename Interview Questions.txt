@@ -1,0 +1,85 @@
+1. Tell me about yourself
+	a. Name and education
+	b. Company and work timeline ( Oct - 2021, Nov -  2022) 
+	c. Project details (Basic Use case, Modules available and each module's high level use case , which modules you have worked on ) 
+	d. Reason for career break 
+	e. Looking for new opportunities
+	
+	Hi, Good Afternoon. I am Sayani Mitra. I am from Bengal. I am haveing overall 3.8 years work experience in Software Testing, Relevent experience in Java, Selenium, Automation
+	with TestNG. My last company was Oracle(from Sep, 2021 to Oct, 2022), there I have worked in FLEXCUBE application in Banking domain. I was a part of the Build Acceptace Testing(BAT)team, where we use OATS 
+	Openscript as well as Selenium-based automation framework for day to day functional, Unit and Regression testing.Where my responcibility was Write, Review and Execute Testcases, perform Functional, Unit and Regration testing across different modules (CASA/CL/CI/Trade etc)for FLEXCUBE
+	Version 12.1 to 14.5 using OATs as well as Selenium based Framework. Right now I am immediate joinner. I am looking for better Opportunity. Thank u.
+	
+	
+	Rolls & Responcibilities:
+	
+	My responcibility was Write, Review and Execute Testcases, perform Functional, Unit and Regration testing across different modules (CASA/CL/CI/Trade etc)for FLEXCUBE
+	Version 12.1 to 14.5 using OATs as well as Selenium based Framework. EOD batch testing across various versions, Functional testing with different languages  like French,
+	Chinese, German ect. And identifying various issues or defects and reporting it using defect tracking toos BugDB, Optimization of Testcase execution. Preparation and 
+    consolidation of the test execution results and publishing it through mail.	
+	
+	Project details:
+	FLEXCUBE : Different Modules: CASA, CL, CI, TRADE
+				Action Code: New, Copy,Close,Auth,Delete
+	CASA: (Current Account & Savings Account)How to create Savings & Current Account.
+	CIF(Function id-STDCIF)- Create Customer, What are the data we are inputing, How Many types of customers, What are the difference we are having for different type of customer
+	STDCUSAC- By using this fid We can create customar.
+	CL - Loan Account Creation, Loan Disbursement & Loan Repayments
+	F_id:1. CLDACCNT:Create a new loan.
+	2. CLDPYMNT:Payment of loan.
+	Limtit - GEDMLIAB
+	Facility - GEDFACLT
+	Customer & Liability Linking - GEDCULIK
+
+	
+
+
+2. Tell me about your daily responsibilites in your last project.
+
+	a. Daily stand up
+	b. Analyse test requiremnt stories ( JIRA - EPIC) 
+	c. Receive test case - Clasify between Manual, Automatable testcses
+	d. Reviewing Test Plan - with Tech/Test Lead 
+	e. Documenting Test Cases - Writing test scripts
+	f. Taking evidences and generate reports
+	g. Raise bugs 
+	h. Retest the fixes
+	i. Regression testing
+
+ 
+3. Tell me about some challenges you faced in your last company?
+a. 
+
+4. Did you use any Source Control Management Systems?
+	GIT - 
+
+SVN 
+TFS
+Urbancode
+
+
+5. General Challenges in Automation testing : 
+	1. Cross browser testing
+	2. Remote 
+	3. Batch Execution
+	4. Group
+	5. Communicating across differnt team(If identify any bug before 2-3 days of release, then after raising bug, contract with assigned Developer for perticular modules)
+	6. Env related issues ( infra) 
+	7.Synchronisation issue for end to end scenarios (Sometimes we use custom waits)
+	8.Finding x path for dynamic web element.
+
+
+6. How you used to classify the bugs:
+	1. Invalid
+	2. Duplicate
+	3. Not Reprodusable
+	4. Can't Fix
+	5. Deffered or Postpond
+	6. Request for enhancement
+	
+							----These are the vary rare cases , if developper is not accepting it as abug 1st time itself.
+							
+	Seviarity: It is for us best on the defect functional impacts  on the application.
+	Priority:  Best on the business impacts on the issue.
+
+
