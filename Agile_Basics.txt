@@ -1,0 +1,40 @@
+Divide a chunk of large deliverables into smaller parts ( EPIC)
+
+JOb Portal : 
+
+a. Fornt end dev( EPIC 001) 
+b. Backend end dev ( EPIC 002) 
+c. Database Development ( EPIC 003) 
+d. Manual Testing ( EPIC 004)
+e. Automation testing ( EPIC 005) 
+
+EPIC 001 : 
+
+a.1 : Deliver Login Page ( Story 1.1) :
+	a.1.1.1 : Analysis ( Task : 001 ) 
+	a.1.1.2 : Develop Login Id and Password Container( User story : 001 ) 
+	a.1.1.3 : Develop background image ( User story : 001 ) 
+	a.1.1.4 : Unit Test ( User story : 001 ) 
+	a.1.1.5 : SIT Test ( User story : 001 ) 
+	
+a.2 : Index Page ( Story 1.2) 
+
+
+
+d. Manual Testing ( EPIC 004)
+	d.1 : Test Index page ( story : business analyst) 
+	d.1.1 : 
+	
+	
+1. Kanban
+2. Scrum  -- Ceremonies 
+Sprint Planning.
+Daily Scrum.
+Sprint Review.
+Sprint Retrospective.
+Backlog Refinement.
+
+3. Backlog , Retrospective 
+
+4. 
+
