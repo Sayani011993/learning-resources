@@ -5,10 +5,25 @@
 	d. Reason for career break 
 	e. Looking for new opportunities
 	
-	Hi, Good Afternoon. I am Sayani Mitra. I am from Bengal. I am haveing overall 3.8 years work experience in Software Testing, Relevent experience in Java, Selenium, Automation
-	with TestNG. My last company was Oracle(from Sep, 2021 to Oct, 2022), there I have worked in FLEXCUBE application in Banking domain. I was a part of the Build Acceptace Testing(BAT)team, where we use OATS 
-	Openscript as well as Selenium-based automation framework for day to day functional, Unit and Regression testing.Where my responcibility was Write, Review and Execute Testcases, perform Functional, Unit and Regration testing across different modules (CASA/CL/CI/Trade etc)for FLEXCUBE
-	Version 12.1 to 14.5 using OATs as well as Selenium based Framework. Right now I am immediate joinner. I am looking for better Opportunity. Thank u.
+	Hi, Good Afternoon. 
+
+	I am Sayani. I am from Bengal. I am having around 4 years of work experience in Software Testing  over 3 yearswith relevant experience in Java, Selenium, Automation with TestNG. 
+	
+	My last company was Oracle(from Sep, 2021 to Oct, 2022), there I have worked in FLEXCUBE application in Banking domain. I was a part of the Build Acceptance Testing(BAT)team, where we use OATS 
+	Openscript as well as Selenium-based automation framework for day-to-day functional, Unit and Regression testing. 
+
+	My responsibility was to : 
+   
+	1. analyze  and write testecases from user stories
+	2. Execute and review the test results with Tech and Business stakeholders.
+	3. Raise bugs into jira and report on a daiy basis
+	4. perform regression and obtaining user sign-off 
+
+	Accross different modules of the flexcube apps.
+
+	Although my core responsibility was to work on test automation i have also workd on unit-testing, non-functional testing and certain manual test cases throughout my career.
+
+	Currently, I am looking for a suitable role where i can apply my technical and functional skills in the testing domain and contribute to the team in a way that positively impacts 	the 		organization and also helps me to improve myself . Thank u.
 	
 	
 	Rolls & Responcibilities:
