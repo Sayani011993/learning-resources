@@ -7,10 +7,9 @@
 	
 	Hi, Good Afternoon. 
 
-	I am Sayani. I am from Bengal. I am having around 4 years of work experience in Software Testing  over 3 yearswith relevant experience in Java, Selenium, Automation with TestNG. 
+	I am Sayani. I am from Bengal. I am having around 4 years of work experience in Software Testing  over 3 yearswith relevant experience in Java, Selenium, 	Automation with TestNG. 
 	
-	My last company was Oracle(from Sep, 2021 to Oct, 2022), there I have worked in FLEXCUBE application in Banking domain. I was a part of the Build Acceptance Testing(BAT)team, where we use OATS 
-	Openscript as well as Selenium-based automation framework for day-to-day functional, Unit and Regression testing. 
+	My last company was Oracle(from Sep, 2021 to Oct, 2022), there I have worked in FLEXCUBE application in Banking domain. I was a part of the Build Acceptance 	Testing(BAT)team, where we use OATS or Openscript as well as Selenium-based automation framework for day-to-day functional, Unit and Regression testing. 
 
 	My responsibility was to : 
    
