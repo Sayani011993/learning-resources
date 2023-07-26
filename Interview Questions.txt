@@ -98,18 +98,20 @@ Urbancode
 
 Tell me about your Project:
 
-Oracle FLEXCUBE univarsal banking application, It is basically used in some of Banks like HDFC, RABO Bank, Access Bank, Abudhabi Commercial Bank. This application is usually used by Bankers to reduce time loss for newly launched some of banking features.
+Oracle FLEXCUBE univarsal banking application, It is basically used in some of Banks like HDFC, RABO Bank, Access Bank, Abudhabi Commercial Bank. This application is 
+usually used by Bankers to reduce time loss for newly launched some of banking features.
 In this application there is one login page where we have to login through two types of users 1. Maker user & 2. Checker users, For every versions and every module 
 wise we have to create different maker and checker users. Through these 2 users we can login to home page. After login in home page, it will show through which 
 user we have used to login. In home page on left hand side there some tasks are indecating, these are New, Auth, Copy, Reopen, Update, Close, Delete. By using checker 
 user we can only do the Auth operation and for other operation we have to login through maker user. On right hand side of home page there is a text field for function 
 ids, After entering these function ids ,it will indicate or open differnt corresponding pages.
-	Our testcases are generally creating on different functions and there differnt corresponding tasks basis, means New, Auth, Close, Reopen, Delete, Copy.
+Our testcases are generally creating on different functions and there differnt corresponding tasks basis, means New, Auth, Close, Reopen, Delete, Copy.
 Now I am entering module wise , those modules are CASA, CL, CI, LEMO, TRADE, RT ect. I worked on CASA and CL modules.
 CASA:
 The full form of CASA is Current Account & Savings Account. For this Casa module main 2 function ids are STDCIF and STDCUSAC. Stdcif is generally used to create 
 Customer and Stdcusac is used to create Account for corresponding customers. Now these customers are generally divided into 3 types , -Individual, Corporate and Bank.
-During creation of customers we have to enter some of fields, suppose Address, Id profe, immage, Liabilities etc. After Completing every operation, means either new or copy or update , We have to Authorise that perticular operation. Other wise We are unable to use that information for further operation.
+During creation of customers we have to enter some of fields, suppose Address, Id profe, immage, Liabilities etc. After Completing every operation, means either new 
+or copy or update , We have to Authorise that perticular operation. Other wise We are unable to use that information for further operation.
 STDCUC is for Account creation, this is depends on Account Class , Which indecates Silver, gold and Premium customer, which also depends on ther salary limit.
 This Account class sections are also open through fid-STDACCLS.
 Similarly different activities are customise through different function id pages.
